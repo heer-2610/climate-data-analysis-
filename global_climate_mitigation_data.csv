@@ -1,0 +1,121 @@
+Country,Indicator,Description,Year,Value,Unit,Source
+Global,Global CO2 Emissions,Total emissions from fossil fuels,2020,34.8,GtCO2,Global Carbon Project
+Global,Global CO2 Emissions,Total emissions from fossil fuels,2021,35.5,GtCO2,Global Carbon Project
+Global,Global CO2 Emissions,Total emissions from fossil fuels,2022,36.8,GtCO2,Global Carbon Project
+Global,Renewable Energy Share,Share of electricity from renewables,2020,27.0,Percent,IEA
+Global,Renewable Energy Share,Share of electricity from renewables,2021,28.0,Percent,IEA
+Global,Renewable Energy Share,Share of electricity from renewables,2022,29.0,Percent,IEA
+Global,Solar Capacity,Installed global solar PV capacity,2021,1000,GW,IRENA
+Global,Solar Capacity,Installed global solar PV capacity,2022,1100,GW,IRENA
+Global,Solar Capacity,Installed global solar PV capacity,2023,1185,GW,IRENA
+Global,Wind Capacity,Installed global wind capacity,2021,800,GW,IRENA
+Global,Wind Capacity,Installed global wind capacity,2022,850,GW,IRENA
+Global,Wind Capacity,Installed global wind capacity,2023,906,GW,IRENA
+Global,Electric Vehicles,Number of electric vehicles in operation,2021,20,Million,IEA
+Global,Electric Vehicles,Number of electric vehicles in operation,2022,30,Million,IEA
+Global,Electric Vehicles,Number of electric vehicles in operation,2023,40,Million,IEA
+Global,Energy Efficiency Investment,Annual global investment,2020,500,Billion USD,IEA
+Global,Energy Efficiency Investment,Annual global investment,2021,530,Billion USD,IEA
+Global,Energy Efficiency Investment,Annual global investment,2022,560,Billion USD,IEA
+Global,Afforestation Area,Global forest expansion efforts,2019,4.0,Million ha,FAO
+Global,Afforestation Area,Global forest expansion efforts,2020,4.3,Million ha,FAO
+Global,Afforestation Area,Global forest expansion efforts,2021,4.7,Million ha,FAO
+Global,Reforestation Projects,Forest recovery project count,2019,120,Count,UNEP
+Global,Reforestation Projects,Forest recovery project count,2020,128,Count,UNEP
+Global,Reforestation Projects,Forest recovery project count,2021,135,Count,UNEP
+Global,Methane Emissions Reduction,Reduction from waste-sector methane,2020,1.0,MtCH4,UNEP
+Global,Methane Emissions Reduction,Reduction from waste-sector methane,2021,1.1,MtCH4,UNEP
+Global,Methane Emissions Reduction,Reduction from waste-sector methane,2022,1.2,MtCH4,UNEP
+Global,Carbon Pricing Coverage,Share of global emissions under carbon pricing,2021,20,Percent,World Bank
+Global,Carbon Pricing Coverage,Share of global emissions under carbon pricing,2022,22,Percent,World Bank
+Global,Carbon Pricing Coverage,Share of global emissions under carbon pricing,2023,23,Percent,World Bank
+Global,CCS Operational Capacity,Operational CO2 capture capacity,2021,40,MtCO2 per year,Global CCS Institute
+Global,CCS Operational Capacity,Operational CO2 capture capacity,2022,45,MtCO2 per year,Global CCS Institute
+Global,CCS Operational Capacity,Operational CO2 capture capacity,2023,49,MtCO2 per year,Global CCS Institute
+Global,Climate Finance,Funds committed for mitigation,2020,350,Billion USD,UNFCCC
+Global,Climate Finance,Funds committed for mitigation,2021,370,Billion USD,UNFCCC
+Global,Climate Finance,Funds committed for mitigation,2022,391,Billion USD,UNFCCC
+Global,Green Hydrogen Production,Annual low-carbon hydrogen output,2021,1.0,Mt,IEA
+Global,Green Hydrogen Production,Annual low-carbon hydrogen output,2022,1.2,Mt,IEA
+Global,Green Hydrogen Production,Annual low-carbon hydrogen output,2023,1.4,Mt,IEA
+Global,Global Temperature Rise,Increase above pre-industrial baseline,2021,1.1,°C,WMO
+Global,Global Temperature Rise,Increase above pre-industrial baseline,2022,1.15,°C,WMO
+Global,Global Temperature Rise,Increase above pre-industrial baseline,2023,1.2,°C,WMO
+Global,Deforestation Rate,Annual global tree-cover loss,2020,3.5,Million ha,Global Forest Watch
+Global,Deforestation Rate,Annual global tree-cover loss,2021,3.6,Million ha,Global Forest Watch
+Global,Deforestation Rate,Annual global tree-cover loss,2022,3.75,Million ha,Global Forest Watch
+USA,CO2 Emissions,Total emissions from fossil fuels,2020,4.8,GtCO2,EPA
+USA,CO2 Emissions,Total emissions from fossil fuels,2021,5.0,GtCO2,EPA
+USA,CO2 Emissions,Total emissions from fossil fuels,2022,5.1,GtCO2,EPA
+USA,Renewable Energy Share,Share of electricity from renewables,2020,19.0,Percent,EIA
+USA,Renewable Energy Share,Share of electricity from renewables,2021,20.0,Percent,EIA
+USA,Renewable Energy Share,Share of electricity from renewables,2022,21.0,Percent,EIA
+USA,Solar Capacity,Installed solar PV capacity,2021,120,GW,NREL
+USA,Solar Capacity,Installed solar PV capacity,2022,135,GW,NREL
+USA,Solar Capacity,Installed solar PV capacity,2023,150,GW,NREL
+USA,Wind Capacity,Installed wind capacity,2021,120,GW,AWEA
+USA,Wind Capacity,Installed wind capacity,2022,130,GW,AWEA
+USA,Wind Capacity,Installed wind capacity,2023,140,GW,AWEA
+USA,Electric Vehicles,Number of electric vehicles in operation,2021,1.5,Million,IEA
+USA,Electric Vehicles,Number of electric vehicles in operation,2022,2.0,Million,IEA
+USA,Electric Vehicles,Number of electric vehicles in operation,2023,2.5,Million,IEA
+China,CO2 Emissions,Total emissions from fossil fuels,2020,10.5,GtCO2,China NBS
+China,CO2 Emissions,Total emissions from fossil fuels,2021,11.0,GtCO2,China NBS
+China,CO2 Emissions,Total emissions from fossil fuels,2022,11.5,GtCO2,China NBS
+China,Renewable Energy Share,Share of electricity from renewables,2020,28.0,Percent,NEA
+China,Renewable Energy Share,Share of electricity from renewables,2021,29.0,Percent,NEA
+China,Renewable Energy Share,Share of electricity from renewables,2022,30.0,Percent,NEA
+China,Solar Capacity,Installed solar PV capacity,2021,300,GW,NEA
+China,Solar Capacity,Installed solar PV capacity,2022,350,GW,NEA
+China,Solar Capacity,Installed solar PV capacity,2023,400,GW,NEA
+China,Wind Capacity,Installed wind capacity,2021,330,GW,CWE
+China,Wind Capacity,Installed wind capacity,2022,355,GW,CWE
+China,Wind Capacity,Installed wind capacity,2023,380,GW,CWE
+China,Electric Vehicles,Number of electric vehicles in operation,2021,8,Million,CAAM
+China,Electric Vehicles,Number of electric vehicles in operation,2022,12,Million,CAAM
+China,Electric Vehicles,Number of electric vehicles in operation,2023,15,Million,CAAM
+India,CO2 Emissions,Total emissions from fossil fuels,2020,2.5,GtCO2,MoEFCC
+India,CO2 Emissions,Total emissions from fossil fuels,2021,2.6,GtCO2,MoEFCC
+India,CO2 Emissions,Total emissions from fossil fuels,2022,2.8,GtCO2,MoEFCC
+India,Renewable Energy Share,Share of electricity from renewables,2020,23.0,Percent,MNRE
+India,Renewable Energy Share,Share of electricity from renewables,2021,24.0,Percent,MNRE
+India,Renewable Energy Share,Share of electricity from renewables,2022,25.0,Percent,MNRE
+India,Solar Capacity,Installed solar PV capacity,2021,60,GW,MNRE
+India,Solar Capacity,Installed solar PV capacity,2022,70,GW,MNRE
+India,Solar Capacity,Installed solar PV capacity,2023,80,GW,MNRE
+India,Wind Capacity,Installed wind capacity,2021,40,GW,IWPA
+India,Wind Capacity,Installed wind capacity,2022,42,GW,IWPA
+India,Wind Capacity,Installed wind capacity,2023,45,GW,IWPA
+India,Electric Vehicles,Number of electric vehicles in operation,2021,0.8,Million,IEA
+India,Electric Vehicles,Number of electric vehicles in operation,2022,1.2,Million,IEA
+India,Electric Vehicles,Number of electric vehicles in operation,2023,1.5,Million,IEA
+Germany,CO2 Emissions,Total emissions from fossil fuels,2020,0.6,GtCO2,UBA
+Germany,CO2 Emissions,Total emissions from fossil fuels,2021,0.65,GtCO2,UBA
+Germany,CO2 Emissions,Total emissions from fossil fuels,2022,0.7,GtCO2,UBA
+Germany,Renewable Energy Share,Share of electricity from renewables,2020,45.0,Percent,Bundesnetzagentur
+Germany,Renewable Energy Share,Share of electricity from renewables,2021,47.0,Percent,Bundesnetzagentur
+Germany,Renewable Energy Share,Share of electricity from renewables,2022,50.0,Percent,Bundesnetzagentur
+Germany,Solar Capacity,Installed solar PV capacity,2021,60,GW,BDEW
+Germany,Solar Capacity,Installed solar PV capacity,2022,65,GW,BDEW
+Germany,Solar Capacity,Installed solar PV capacity,2023,70,GW,BDEW
+Germany,Wind Capacity,Installed wind capacity,2021,55,GW,BWE
+Germany,Wind Capacity,Installed wind capacity,2022,57,GW,BWE
+Germany,Wind Capacity,Installed wind capacity,2023,60,GW,BWE
+Germany,Electric Vehicles,Number of electric vehicles in operation,2021,0.6,Million,KBA
+Germany,Electric Vehicles,Number of electric vehicles in operation,2022,0.8,Million,KBA
+Germany,Electric Vehicles,Number of electric vehicles in operation,2023,1.0,Million,KBA
+Japan,CO2 Emissions,Total emissions from fossil fuels,2020,1.0,GtCO2,MOE
+Japan,CO2 Emissions,Total emissions from fossil fuels,2021,1.05,GtCO2,MOE
+Japan,CO2 Emissions,Total emissions from fossil fuels,2022,1.1,GtCO2,MOE
+Japan,Renewable Energy Share,Share of electricity from renewables,2020,18.0,Percent,METI
+Japan,Renewable Energy Share,Share of electricity from renewables,2021,19.0,Percent,METI
+Japan,Renewable Energy Share,Share of electricity from renewables,2022,20.0,Percent,METI
+Japan,Solar Capacity,Installed solar PV capacity,2021,70,GW,METI
+Japan,Solar Capacity,Installed solar PV capacity,2022,75,GW,METI
+Japan,Solar Capacity,Installed solar PV capacity,2023,80,GW,METI
+Japan,Wind Capacity,Installed wind capacity,2021,4,GW,JWPA
+Japan,Wind Capacity,Installed wind capacity,2022,4.5,GW,JWPA
+Japan,Wind Capacity,Installed wind capacity,2023,5,GW,JWPA
+Japan,Electric Vehicles,Number of electric vehicles in operation,2021,0.3,Million,JAMA
+Japan,Electric Vehicles,Number of electric vehicles in operation,2022,0.4,Million,JAMA
+Japan,Electric Vehicles,Number of electric vehicles in operation,2023,0.5,Million,JAMA
